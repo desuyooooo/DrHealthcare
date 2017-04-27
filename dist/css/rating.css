@@ -1,0 +1,15 @@
+
+.stethoscope{
+    color: #ccc;
+    cursor: pointer;
+    transition: all 0.2s linear;
+}
+.stethoscope-checked{
+    color: #00c853;
+}
+.stethoscope-checked-f{
+    color: #00c853;
+}
+#result{
+    display: none;
+}
